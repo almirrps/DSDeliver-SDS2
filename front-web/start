@@ -1,0 +1,392 @@
+Script started on 2021-01-08 07:22:44-03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;almir@note-almir: ~/workspace/ws-sds2/dsdeliver/front-web[01;32malmir@note-almir[00m:[01;34m~/workspace/ws-sds2/dsdeliver/front-web[00m$ react-scripts start
+react-scripts: comando não encontrado
+]0;almir@note-almir: ~/workspace/ws-sds2/dsdeliver/front-web[01;32malmir@note-almir[00m:[01;34m~/workspace/ws-sds2/dsdeliver/front-web[00m$ npm start
+
+> front-web@0.1.0 start /home/almir/workspace/ws-sds2/dsdeliver/front-web
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.18.141/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/almir/workspace/ws-sds2/dsdeliver/front-web/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/index.css (./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css)[27m
+Error: ENOENT: no such file or directory, open '/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/index.css'
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/reportWebVitals.ts[27m
+Error: ENOENT: no such file or directory, open '/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/reportWebVitals.ts'
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/App.tsx(2,19)[39m[22m[31m:[39m
+File '/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/Hello.tsx' is not a module.  [31m[4mTS2306[24m[39m
+
+    1 | import './App.css';
+  > 2 | import Hello from './Hello';
+      |                   ^
+    3 | 
+    4 | function App() {
+    5 |   return (
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/App.tsx[27m
+Attempted import error: './Hello' does not contain a default export (imported as 'Hello').
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/App.tsx(7,8)[39m[22m[31m:[39m
+Property 'message' is missing in type '{}' but required in type 'Props'.  [31m[4mTS2741[24m[39m
+
+     5 |   return (
+     6 |     <div>
+  >  7 |       <Hello message="Almir"/>
+       |        ^
+     8 |     </div>
+     9 |   );
+    10 | }
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/Hello.tsx[27m
+Error: ENOENT: no such file or directory, open '/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/Hello.tsx'
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/Counter.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/Counter.tsx(undefined,undefined)[39m[22m[31m:[39m
+'Counter.tsx' cannot be compiled under '--isolatedModules' because it is considered a global script file. Add an import, export, or an empty 'export {}' statement to make it a module.  [31m[4mTS1208[24m[39m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/App.tsx(2,21)[39m[22m[31m:[39m
+File '/home/almir/workspace/ws-sds2/dsdeliver/front-web/src/Counter.tsx' is not a module.  [31m[4mTS2306[24m[39m
+
+    1 | import './App.css';
+  > 2 | import Counter from './Counter';
+      |                     ^
+    3 | 
+    4 | function App() {
+    5 |   return (
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mfront-web[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.18.141:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 4:12:[22m  'counter' is assigned a value but never used     [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+  [1mLine 4:21:[22m  'setCounter' is assigned a value but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 4:12:[22m  'counter' is assigned a value but never used     [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+  [1mLine 4:21:[22m  'setCounter' is assigned a value but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 4:12:[22m  'counter' is assigned a value but never used     [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+  [1mLine 4:21:[22m  'setCounter' is assigned a value but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 4:21:[22m  'setCounter' is assigned a value but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 1:10:[22m  'count' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 1:10:[22m  'count' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Counter.tsx
+  [1mLine 1:10:[22m  'count' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/Counter.tsx[27m
+Error: ENOENT: no such file or directory, open '/home/almi
